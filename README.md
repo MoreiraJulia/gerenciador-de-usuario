@@ -6,15 +6,14 @@ Sistema que cadastra usuários em um banco de dados, lista na tela o nome e se o
 
 Tecnologias Utilizadas
 
----
---> HTML
----
--->PHP
----
--->CSS
----
--->Bootstrap
 
+--> HTML
+
+-->PHP
+
+-->CSS
+
+-->Bootstrap
 
 -->MariaDB
 
