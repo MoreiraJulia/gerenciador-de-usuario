@@ -42,7 +42,7 @@
                     <th class="col-3">Administrador</th>
                 </tr>
             </thead>
-            <tbody class="">
+            <tbody>
                 <?php 
                 $sqlBusca = "SELECT * FROM tb_usuarios";
                 $resultado = mysqli_query($conexao , $sqlBusca);
