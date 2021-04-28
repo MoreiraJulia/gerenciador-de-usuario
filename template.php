@@ -14,7 +14,7 @@
     <img src="img/people5.png">
 </div>
     
-    <h2 class="text-center">CADASTRO DE USUÁRIO</h2>
+    <h2 class="text-center">CADASTRO DE USUÁRIOS</h2>
     <form class="row g-3 justify-content-center">
         <div class="col-md-4">
             <label for="usuario" class="form-label">Usuário</label>
