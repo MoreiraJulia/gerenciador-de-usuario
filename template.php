@@ -11,7 +11,7 @@
 <body class="container">
 
 <div class="text-center">
-    <img src="img/people5.png">
+    <img src="img/people5.png" alt="Desenho de uma pessoa">
 </div>
     
     <h2 class="text-center">CADASTRO DE USUÁRIOS</h2>
